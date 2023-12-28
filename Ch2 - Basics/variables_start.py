@@ -29,11 +29,11 @@ mydict = {"one" : 1, "two" : 2} #* one and two are keys
 # print(mylist[2])
 # print(mytuple[1])
 
-# # use slices to get parts of a sequence
+# #* use slices to get parts of a sequence, the third is the step value
 # print(mylist[1:5])
 # print(mylist[1:5:2])
 
-# # you can use slices to reverse a sequence
+# #* you can use slices to reverse a sequence
 # print(mylist[::-1]) #* Cool tip
 
 # dictionaries are accessed via keys
